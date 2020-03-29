@@ -8,7 +8,7 @@ We teach:
 * SQL
 * HTML and CSS
 * Javascript and Jquery
-* How to go about getting a job in the industry
+* How to go about getting a job in the industry!
 
 This repo contains the main app for the Odin Project which can be found online at [theodinproject.com](https://www.theodinproject.com). It pulls in lesson and project content from our [curriculum repo](https://github.com/TheOdinProject/curriculum).
 
